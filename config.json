@@ -1,0 +1,4 @@
+{
+    "db_url": "mysql+pymysql://taxi:Dsu_taxi_sharing!!1@10.178.0.5/taxi?charset=utf8",
+    "db_track_modifications": false
+}
